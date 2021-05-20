@@ -1,0 +1,105 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/edlavr/Desktop/VR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54644
+Successfully changed project path to: /Users/edlavr/Desktop/VR
+/Users/edlavr/Desktop/VR
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 725.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/edlavr/Desktop/VR/Assets
+GfxDevice: creating device client; threaded=0
+Renderer: Intel(R) Iris(TM) Plus Graphics 650
+Vendor:   Intel Inc.
+Version:  4.1 INTEL-16.2.16
+GLES:     0
+ GL_ARB_blend_func_extended GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader5 GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_occlusion_query2 GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_subroutine GL_ARB_shading_language_include GL_ARB_tessellation_shader GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_vertex_attrib_64bit GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_sRGB_decode GL_APPLE_client_storage GL_APPLE_container_object_shareable GL_APPLE_fl
+ush_render GL_APPLE_object_purgeable GL_APPLE_rgb_422 GL_APPLE_row_bytes GL_APPLE_texture_range GL_ATI_texture_mirror_once GL_NV_texture_barrier
+OPENGL LOG: Creating OpenGL 4.1 graphics device ; Context level  <OpenGL 4.1> ; Context handle 1527045120
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56765
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000625 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 33.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.174 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.303 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1332 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.9 MB.
+System memory in use after: 119.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1780.
+Total: 9.720405 ms (FindLiveObjects: 1.351692 ms CreateObjectMapping: 1.178872 ms MarkObjects: 7.037228 ms  DeleteObjects: 0.147137 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Problem 2.unity
+  artifactKey: Guid(f0c505cd3b8464f11b8402c2269c6003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Problem 2.unity using Guid(f0c505cd3b8464f11b8402c2269c6003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86fb67f550f7a23034b755e5ebe8516') in 0.024514 seconds
+  Import took 0.032080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100148 seconds.
+  path: Assets/Scenes/Problem 2.unity
+  artifactKey: Guid(f0c505cd3b8464f11b8402c2269c6003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Problem 2.unity using Guid(f0c505cd3b8464f11b8402c2269c6003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86fb67f550f7a23034b755e5ebe8516') in 0.001233 seconds
+  Import took 0.003967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.536107 seconds.
+  path: Assets/Scenes/Problem 3.unity
+  artifactKey: Guid(f19420eb7e315402380494d2c55d09b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Problem 3.unity using Guid(f19420eb7e315402380494d2c55d09b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a656eb934953ec966e220bf70134fb') in 0.003040 seconds
+  Import took 0.010238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078638 seconds.
+  path: Assets/Scenes/Problem 3.unity
+  artifactKey: Guid(f19420eb7e315402380494d2c55d09b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Problem 3.unity using Guid(f19420eb7e315402380494d2c55d09b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a656eb934953ec966e220bf70134fb') in 0.001521 seconds
+  Import took 0.005843 seconds .
+

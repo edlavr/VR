@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Render Material 1
+  m_Shader: {fileID: 4800000, guid: 0b6e604aaf1b047bba5c4c97aaa9d032, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 8400000, guid: cffca9cf8d4c84c1c8e808e5167ab76e, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Blue: 0
+    - _BlueX: -0.004
+    - _BlueY: 0
+    - _Green: 0
+    - _GreenX: 0
+    - _GreenY: 0
+    - _Red: 0
+    - _RedX: 0.009
+    - _RedY: 0
+    - _blueX: 0.01
+    - _blueY: 0
+    - _c1: -0.15
+    - _c2: 0.05
+    - _greenX: 0
+    - _greenY: 0
+    - _redX: -0.01
+    - _redY: 0
+    - c1: 20
+    - c2: 10
+    m_Colors:
+    - _Blue: {r: -0.01, g: 0, b: 0, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Green: {r: 0, g: 0, b: 0, a: 1}
+    - _Red: {r: 0.01, g: 0, b: 0, a: 1}
+    - _RedZ: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
